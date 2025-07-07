@@ -92,3 +92,4 @@ https://drive.google.com/drive/folders/13bx0xMu9Py2vFqFG8ocny2YVamw7EQOX?usp=sha
 - **Sarthak Chauhan (E22CSEU0054)**: Model Development, Dataset (Bracelets)
 - **Vrinda Singh Parmar (E22CSEU0043)**: Model Development, Dataset (Necklaces)
 - **Shlok Bhardwaj (E22CSEU0041)**: Model Development, Dataset (Earrings)
+-  **Saksham Dhiman (E22CSEU0048)**: Research , FineTuning
